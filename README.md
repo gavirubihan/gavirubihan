@@ -5,7 +5,7 @@
 🎓 Undergraduate in **Computing & Information Systems**  
 💡 Exploring **Web Development, APIs & Databases**  
 ✍️ Blogger & technical writer at [My Blog](https://gavirubihan.blogspot.com/)
-✍️ Contributor at [**Android වැඩකාරයෝ**](https://androidwedakarayo.com/author/gaviru_bihan/): 26+ tech articles in Sinhala :contentReference[oaicite:1]{index=1}
+✍️ Contributor at [**Android වැඩකාරයෝ**](https://androidwedakarayo.com/author/gaviru_bihan/)
 🎶 Music enthusiast | 🌱 Lifelong learner  
 
 ---
