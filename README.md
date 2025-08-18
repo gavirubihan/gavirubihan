@@ -1,29 +1,51 @@
-![Header](https://raw.githubusercontent.com/your-username/your-username/main/header.png)
+<!-- Header Banner -->
+![Header](https://capsule-render.vercel.app/api?type=wave&color=0:00c6ff,100:0072ff&height=200&section=header&text=Hi%20👋,%20I'm%20Gavi%20Rubihan&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
 
-# Hi there, I'm Gaviru 👋
-🎓 Undergraduate in Computing & Information Systems  
-💻 Tech enthusiast | Blogger | Music lover  
-🌱 Currently learning **API Development & Web Tech**  
+# 💻 About Me  
+🎓 Undergraduate in **Computing & Information Systems**  
+💡 Passionate about **Web Development, APIs & Databases**  
+✍️ I write **technical blogs & articles** in my free time  
+🎶 Music lover & singing enthusiast  
 
-### 🚀 Tech Stack
+---
+
+# 🚀 Tech Stack  
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Ballerina](https://img.shields.io/badge/-Ballerina-FF5000?style=flat&logo=ballerina&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-![Gaviru's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+---
 
-## 📌 Featured Projects
-- 🍽️ [Restaurant Dine-in System](https://github.com/your-username/restaurant-order-system)  
-- 📊 [Data Visualization Dashboard](https://github.com/your-username/data-dashboard)  
-- ✍️ [Tech Blog Articles](https://github.com/your-username/blogs)  
+# 📊 GitHub Stats  
+![Gavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=gavirubihan&show_icons=true&theme=radical)  
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=dracula)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gavirubihan&layout=compact&theme=radical)  
 
-## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-link)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=firefox)](https://your-portfolio-link.com)
-[![Blog](https://img.shields.io/badge/Blog-FF5722?style=flat&logo=blogger&logoColor=white)](https://your-blog-link.com)
+![GitHub Streak](https://streak-stats.demolab.com?user=gavirubihan&theme=radical&border_radius=10)
 
-![Visitor Count](https://komarev.com/ghpvc/?username=your-username&color=blue)
+---
+
+# 📌 Featured Projects  
+🔹 🍽️ [Restaurant Dine-in System](https://github.com/gavirubihan/restaurant-order-system)  
+🔹 📊 [Data Dashboard](https://github.com/gavirubihan/data-dashboard)  
+🔹 ✍️ [Tech Blogs](https://github.com/gavirubihan/blogs)  
+
+---
+
+# 📈 Activity Graph  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gavirubihan&theme=dracula)
+
+---
+
+# 📫 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-link)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=firefox)](https://your-portfolio-link.com)  
+[![Blog](https://img.shields.io/badge/Blog-FF5722?style=flat&logo=blogger&logoColor=white)](https://your-blog-link.com)  
+
+---
+
+![Visitor Count](https://komarev.com/ghpvc/?username=gavirubihan&color=blue)
