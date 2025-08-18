@@ -4,9 +4,10 @@
 ## 💻 About Me  
 🎓 Undergraduate in **Computing & Information Systems**  
 💡 Exploring **Web Development, APIs & Databases**  
-✍️ Blogger & technical writer at [My Blog](https://gavirubihan.blogspot.com/)
-✍️ Contributor at [**Android වැඩකාරයෝ**](https://androidwedakarayo.com/author/gaviru_bihan/)
+✍️ Blogger & technical writer at [My Blog](https://gavirubihan.blogspot.com/)  
+✍️ Contributor at [**Android වැඩකාරයෝ**](https://androidwedakarayo.com/author/gaviru_bihan/)  
 🎶 Music enthusiast | 🌱 Lifelong learner  
+
 
 ---
 
