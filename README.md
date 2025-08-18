@@ -30,9 +30,9 @@
 ---
 
 # 📌 Featured Projects  
-🔹 🍽️ [Restaurant Dine-in System](https://github.com/gavirubihan/restaurant-order-system)  
+🔹 🌐 [CIS UnixCloud](https://github.com/gavirubihan/CIS-UniXCloud-Web)  
 🔹 📊 [Data Dashboard](https://github.com/gavirubihan/data-dashboard)  
-🔹 ✍️ [Tech Blogs](https://github.com/gavirubihan/blogs)  
+🔹 ✍️ [Tech Blogs](https://gavirubihan.blogspot.com/)  
 
 ---
 
@@ -42,9 +42,10 @@
 ---
 
 # 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-link)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=firefox)](https://your-portfolio-link.com)  
-[![Blog](https://img.shields.io/badge/Blog-FF5722?style=flat&logo=blogger&logoColor=white)](https://your-blog-link.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/gavirubihan/)  
+[![Blog](https://img.shields.io/badge/Blog-FF5722?style=flat&logo=blogger&logoColor=white)](https://gavirubihan.blogspot.com/)
+[![Androidවැඩකාරයෝ](https://img.shields.io/badge/Androidවැඩකාරයෝ-green?style=flat&logo=android&logoColor=white)](https://androidwedakarayo.com/author/gaviru_bihan/)
+
 
 ---
 
