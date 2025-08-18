@@ -1,5 +1,5 @@
 <!-- Header Banner -->
-![Header](https://capsule-render.vercel.app/api?type=wave&color=0:00c6ff,100:0072ff&height=200&section=header&text=Hi%20👋,%20I'm%20Gavi%20Rubihan&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
+![Header](https://capsule-render.vercel.app/api?type=wave&color=0:00c6ff,100:0072ff&height=200&section=header&text=Hi%20👋,%20I'm%20Gaviru%20Bihan&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
 
 # 💻 About Me  
 🎓 Undergraduate in **Computing & Information Systems**  
