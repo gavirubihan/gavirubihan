@@ -6,6 +6,7 @@
 💡 Exploring **Web Development, APIs & Databases**  
 ✍️ Blogger & technical writer at [My Blog](https://gavirubihan.blogspot.com/)  
 ✍️ Contributor at [**Android වැඩකාරයෝ**](https://androidwedakarayo.com/author/gaviru_bihan/)  
+✍️ Founder at [**Neovise**](https://neovise.me/)
 🎶 Music enthusiast | 🌱 Lifelong learner  
 
 
